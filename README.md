@@ -12,7 +12,7 @@
   * [MathewKeeling.com](http://kcltd.work): Mathew Keeling's Blog
   * [Yet Still I Breathe](https://soundcloud.com/yetstillibreathe): Musical Noodling
 
-## Mailing to which you should subscribe...
+## Mailing lists to which you should subscribe...
 * Jonathan Hall Daily Blurb: https://jhall.io/daily
 * TLDR; Byte sized news for busy techies: https://tldr.tech/signup
 
