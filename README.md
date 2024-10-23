@@ -10,6 +10,7 @@
   * [PyModl](https://github.com/MathewKeeling/GuitarModes): A Guitar Oriented Music Theory Application
   * [KCLTD.work](http://kcltd.work): Keeling Consulting Company's Website
   * [MathewKeeling.com](http://kcltd.work): Mathew Keeling's Blog
+  * [Yet Still I Breathe](https://soundcloud.com/yetstillibreathe): Musical Noodling
 
 ## Mailing to which you should subscribe...
 * Jonathan Hall Daily Blurb: https://jhall.io/daily
