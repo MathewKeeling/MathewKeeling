@@ -9,7 +9,7 @@
   * [GitLab Helper](https://github.com/MathewKeeling/Gitlab-Helper) is a versatile Python script designed to streamline the process of managing GitLab repositories.
   * [Habit Horizon](https://github.com/MathewKeeling/Habit-Horizon) is a .NET application designed to help users catalog their goals and track their progress efficiently.
   * [INSRT.py](https://github.com/MathewKeeling/INSRT.py) is a Python-based application designed to manage certificate deployments efficiently.
-  * [PodSnap](https://github.com/MathewKeeling/PodSnap): Quick Podcast Summaries--powwered by .NET & Ollama." 
+  * [PodSnap](https://github.com/MathewKeeling/PodSnap): Quick Podcast Summaries--powered by .NET & Ollama.
   * [PyModl](https://github.com/MathewKeeling/GuitarModes) is a Guitar Oriented Music Theory Application
 
 ## Mailing lists to which you should subscribe...
