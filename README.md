@@ -1,7 +1,7 @@
 # About
 👋 Hi, I’m @MathewKeeling
 
-🌱 I work primarily on JS, Python, and BASH--building automation tools and web applications.
+🌱 I work primarily on .NET, BASH, JS, and Python--building automation tools and web services.
 
 💞️ I’m looking to collaborate on projects relating to DevOps and Web Development.
 
